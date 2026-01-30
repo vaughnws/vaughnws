@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on a portable development hub<br><br>Fun fact: i got norton
+I’m currently working on a portable development hub
 
 
 ## Socials:
