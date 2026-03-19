@@ -1,5 +1,7 @@
 # About Me:
-I’m currently working on a VBT Device
+I’m currently working on a fitness tech startup 
+
+#### [Check it out!](https://tryincite.com)
 
 
 ## Socials:
